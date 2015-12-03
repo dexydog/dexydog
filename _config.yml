@@ -1,8 +1,9 @@
 # Site settings
-title: Swift
+title: Joshua Massey's student blog
 description: A clean minimal Theme for Jekyll
-email: pranav@maangalabs.com
-baseurl: /swift
+email 1: joshua.massey@challoners.org
+email 2: joshualmassey@outlook.com
+baseurl: /dexydog.github.io
 url: "http://pranav.maangalabs.com" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
@@ -10,11 +11,11 @@ favicon: /favicon.png
 #feed
 feedburner_username: maangalabs
 #twitter
-twitter_username: pranavrajs
-github_username:  pranavrajs
+twitter_username: 
+github_username:  dexydog
 
 #linkedin
-linkedin_username: pranavrajs
+linkedin_username: 
 
 #google analytics
 google_analytics_id : UA-53386152-2
@@ -36,8 +37,8 @@ disqus_show_comment_count: true
 #Can be used for multiple author blogs ! Add name to post For more visit the sample
 authors:
   pranavrajs:
-    display_name: Pranav Raj S
-    email: pranavrajs@gmail.com
+    display_name: joshua massey
+    email: 
     fb: pranav.tayberrycreative
     linkedin: pranavrajs
     twitter: pranavrajs
