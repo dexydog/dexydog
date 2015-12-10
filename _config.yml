@@ -1,6 +1,6 @@
 # Site settings
 title: Joshua Massey's student blog
-description: A clean minimal Theme for Jekyll
+description: My DCGS student blog
 email 1: joshua.massey@challoners.org
 email 2: joshualmassey@outlook.com
 baseurl: /dexydog.github.io
@@ -13,7 +13,7 @@ feedburner_username: maangalabs
 #twitter
 twitter_username: 
 github_username:  dexydog
-
+instagram_username: yoshy2004
 #linkedin
 linkedin_username: 
 
@@ -38,8 +38,8 @@ disqus_show_comment_count: true
 authors:
   pranavrajs:
     display_name: joshua massey
-    email: 
-    fb: pranav.tayberrycreative
-    linkedin: pranavrajs
-    twitter: pranavrajs
-    github: pranavrajs
+    email: joshua.massey@challoners.org
+    fb: 
+    linkedin: 
+    twitter:
+    github: dexydog
