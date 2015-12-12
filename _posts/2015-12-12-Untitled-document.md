@@ -2,7 +2,7 @@
 title: IT lessons in my first term
 layout: post
 author: joshua.massey
-permalink: /untitled-document/
+permalink: dexydog.github.io
 source-id: 178s0uuy1DC__RcrmYbLCJs5t1zk8bBw5bUH_6BZyn9k
 published: true
 ---
