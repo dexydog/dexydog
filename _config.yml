@@ -7,7 +7,7 @@ baseurl: /dexydog.github.io
 url: "http://pranav.maangalabs.com" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
-
+avatar: https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Aston_Villa.svg/732px-Aston_Villa.svg.png&imgrefurl=https://en.wikipedia.org/wiki/Aston_Villa_F.C.&h=1024&w=732&tbnid=ZOt0P0-lp8H5sM:&docid=M_kk6p2nl7McBM&ei=J4lyVumnEYX6UvLQr7AJ&tbm=isch&ved=0ahUKEwip167q0uLJAhUFvRQKHXLoC5YQMwgxKAAwAA
 #feed
 feedburner_username: maangalabs
 #twitter
