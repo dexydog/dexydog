@@ -1,19 +1,19 @@
 # Site settings
-title: Joshua Massey's student blog
+title: Joshua student blog
 description: My DCGS student blog
-email 1: joshua.massey@challoners.org
-email 2: joshualmassey@outlook.com
+email 1: 
+email 2: 
 baseurl: /dexydog.github.io
 url: "http://pranav.maangalabs.com" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
 avatar: https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Aston_Villa.svg/732px-Aston_Villa.svg.png&imgrefurl=https://en.wikipedia.org/wiki/Aston_Villa_F.C.&h=1024&w=732&tbnid=ZOt0P0-lp8H5sM:&docid=M_kk6p2nl7McBM&ei=J4lyVumnEYX6UvLQr7AJ&tbm=isch&ved=0ahUKEwip167q0uLJAhUFvRQKHXLoC5YQMwgxKAAwAA
 #feed
-feedburner_username: maangalabs
+feedburner_username: 
 #twitter
 twitter_username: 
-github_username:  dexydog
-instagram_username: yoshy2004
+github_username:
+instagram_username: 
 #linkedin
 linkedin_username: 
 
@@ -24,6 +24,9 @@ gplus_username: 101893920934936418705
 
 #fb_username
 fb_username: pranav.tayberrycreative
+
+general_assets: images
+post_assets: images
 
 #permalink /blog/2014/11/11/this-is-a-sample-post
 permalink: /blog/:year/:month/:day/:title
