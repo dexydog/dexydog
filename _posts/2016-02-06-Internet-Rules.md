@@ -8,27 +8,27 @@ published: true
 ---
 **Internet rules**
 
-1.always have fun
+Always have fun
 
-2. play games to socialise with friends
+ Play games to socialise with friends
 
-3.Make sure everyone is involved in a chat and no one is left out 
+Make sure everyone is involved in a chat and no one is left out 
 
-4. share ideas with each other
+ Share ideas with each other
 
-5.Make sure everyone else is having fun, like you
+Make sure everyone else is having fun, like you
 
-6. help each other with homework
+ Help each other with homework
 
-7. Share your achievements
+ Share your achievements
 
-8. Talk about recent sporting events with friends
+ Talk about recent sporting events with friends
 
-9. Share your gaming achievements
+ Share your gaming achievements
 
-10.Make your friends feel better when they're feeling down
+Make your friends feel better when they're feeling down
 
-11. make new friends/girlfriends 
+ Make new friends/girlfriends 
 
  
 
