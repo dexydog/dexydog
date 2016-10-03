@@ -1,5 +1,5 @@
 ---
-title: IT lesson 3
+title: Using Github Template - Joshua Massey 3
 layout: post
 author: joshua.massey
 permalink: /using-github-template---joshua-massey-3/
